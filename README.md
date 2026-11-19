@@ -22,7 +22,7 @@
 I'm a third-year IT student at the **University of Science, VNU-HCM**, aiming for **software development and cloud integration** roles. I like building the parts a product depends on: concurrency-safe backends, MCP tool servers with real authorization, and retrieval pipelines measured with evaluation sets.
 
 - 🏗️ Building **Jars Platform**, a Java 21 / Spring Boot modular monolith on AWS with an append-only ledger, idempotent APIs and infrastructure as code
-- 🤖 Focus areas: **agentic AI** (MCP, AgentCore, Bedrock), **RAG** (hybrid retrieval, GraphRAG), **cloud architecture**
+- 🎯 Focus areas: **Java / Spring Boot backends** (Spring Modulith, Spring Batch, Spring AI), **cloud architecture** on AWS, **agentic AI** (MCP, AgentCore, Bedrock), **RAG** (hybrid retrieval, GraphRAG)
 - 🏆 6 hackathons in two years, including **Top 4/260** at Swinburne (team lead) and **Top 7/100** at MongoDB
 - 🎓 Outstanding Scholarship 2025 · IELTS 6.0 (B2)
 
