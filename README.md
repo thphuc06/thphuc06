@@ -222,13 +222,21 @@ Credentials can be verified on [LinkedIn](https://www.linkedin.com/in/ho%C3%A0ng
 
 ---
 
-## 🐍 Contributions
+## 📊 GitHub activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thphuc06/thphuc06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thphuc06/thphuc06/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/thphuc06/thphuc06/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thphuc06/thphuc06/output/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thphuc06/thphuc06/output/profile-green-animate.svg" />
+    <img alt="3D contribution chart" src="https://raw.githubusercontent.com/thphuc06/thphuc06/output/profile-green-animate.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thphuc06&bg_color=0d1117&color=c9d1d9&title_color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&radius=6&custom_title=Contributions%20over%20the%20last%2031%20days" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thphuc06&bg_color=ffffff&color=1f2328&title_color=1e3a8a&line=1e3a8a&point=0ea5e9&area=true&area_color=0ea5e9&hide_border=true&radius=6&custom_title=Contributions%20over%20the%20last%2031%20days" />
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thphuc06&bg_color=ffffff&color=1f2328&title_color=1e3a8a&line=1e3a8a&point=0ea5e9&area=true&area_color=0ea5e9&hide_border=true&radius=6&custom_title=Contributions%20over%20the%20last%2031%20days" width="100%" />
   </picture>
 </p>
 
