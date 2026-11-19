@@ -164,10 +164,15 @@ The original hackathon system: a multi-agent finance advisor on AWS AgentCore.
 
 ## 📜 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA" />
-  <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner" />
-  <img src="https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Associate Developer" />
+<p align="center">
+  <a href="https://www.credly.com/badges/a9e72430-4011-4563-b63a-8be54fd36c8a"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate (verify on Credly)" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4c0bb74e-174c-40c1-b27b-71917ae959bb"><img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner (verify on Credly)" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b2b886f1-5c32-499d-b603-e0a681959451"><img src="https://images.credly.com/size/220x220/images/ff52a038-c61e-4088-b434-2e98ef546896/image.png" width="120" alt="MongoDB Associate Developer" title="MongoDB Associate Developer (verify on Credly)" /></a>
+</p>
+<p align="center"><sub>Click a badge to verify it on Credly</sub></p>
+<p align="center">
   <img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank SQL Advanced" />
 </p>
 
@@ -177,9 +182,9 @@ The original hackathon system: a multi-agent finance advisor on AWS AgentCore.
 
 | Issuer | Certification | Issued |
 |:--|:--|:--|
-| Amazon Web Services | AWS Certified AI Practitioner (AIF-C01) | Nov 2026 |
-| Amazon Web Services | AWS Certified Solutions Architect – Associate (SAA-C03) | Oct 2026 |
-| MongoDB | MongoDB Associate Developer | Sep 2026 |
+| Amazon Web Services | [AWS Certified AI Practitioner (AIF-C01)](https://www.credly.com/badges/4c0bb74e-174c-40c1-b27b-71917ae959bb) | Nov 2026 |
+| Amazon Web Services | [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/a9e72430-4011-4563-b63a-8be54fd36c8a) | Oct 2026 |
+| MongoDB | [MongoDB Associate Developer](https://www.credly.com/badges/b2b886f1-5c32-499d-b603-e0a681959451) | Sep 2026 |
 | Amazon Web Services | Architecting Solutions on AWS | May 2026 |
 | HackerRank | SQL (Advanced) | Mar 2026 |
 | Google | AI Fundamentals | Feb 2026 |
